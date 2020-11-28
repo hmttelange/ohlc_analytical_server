@@ -80,7 +80,7 @@ Note : You can skip these steps if you already have Node and npm installed on yo
 ## Used npm packages
 
 * [NPM](https://www.npmjs.com/) - Most of the modules are used
-* [Node](https://nodejs.org) - Node JS
-* [express](http://expressjs.com/)
+* [Node](https://nodejs.org) - NodeJS
+* [express](http://expressjs.com/) -  NodeJS Web framework
 * [SocketIO](https://socket.io) - Library for Socket communication
 * [worker_threads] - Library for create workers threads in NodeJS
